@@ -3,6 +3,8 @@
 
 ### Our Current Projects
 
+- [Efficient Key Management for Low-bandwidth Networks](https://adwise.fiu.edu/efficient-key-management-for-low-bandwidth-networks)
+
 - [Efficient and Practical Secure Multiparty Computation in Zero-trusted Environments](https://adwise.fiu.edu/efficient-and-practical-secure-multiparty-computation-in-zero-trusted-environments)
 
 - [Multimedia Forensics: Source Camera Identification](https://adwise.fiu.edu/multimedia-forensics-source-camera-identification)
@@ -17,6 +19,7 @@
 
 - [Enabling Third Layer Bitcoin Applications using Lightning Network](https://adwise.fiu.edu/enabling-third-layer-bitcoin-applications-using-lightning-network)
 
+- [Cryptocurrency Artifact Detection on Android Devices](https://adwise.fiu.edu/cryptocurrency-artifact-detection-on-android-devices)
 
 
 ### 📫 How to reach us **https://adwise.fiu.edu/contact**
