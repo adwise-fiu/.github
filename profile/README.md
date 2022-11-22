@@ -3,8 +3,8 @@
 
 ### Our Current Projects
 
-
-- [Efficient Key Management for Low-bandwidth Networks](https://adwise.fiu.edu/efficient-key-management-for-low-bandwidth-networks){:target="_blank"}
+<a href="[http://...](https://adwise.fiu.edu/efficient-key-management-for-low-bandwidth-networks)" target="_blank">external link</a>
+- [Efficient Key Management for Low-bandwidth Networks](https://adwise.fiu.edu/efficient-key-management-for-low-bandwidth-networks)
 
 - [Efficient and Practical Secure Multiparty Computation in Zero-trusted Environments](https://adwise.fiu.edu/efficient-and-practical-secure-multiparty-computation-in-zero-trusted-environments)
 
